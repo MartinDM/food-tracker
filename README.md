@@ -1,5 +1,3 @@
-# Food Diary
-
 ![Food diary](image-1.png)
 
 **A simple, private food diary for searching, logging and tracking the day's nutrition...**
