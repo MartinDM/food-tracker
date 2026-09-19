@@ -4,7 +4,12 @@
 
 Frustrated with the UX on many of the mainstream tracking apps, I made my own!
 
+<a href="https://food-tracker-uk.vercel.app/">
+
 ![Food diary screenshot](image.png)
+
+</a>
+⚡️ <a href="https://food-tracker-uk.vercel.app/"> <strong>food-tracker-uk.vercel.app</a><strong></strong>
 
 ### Features
 
